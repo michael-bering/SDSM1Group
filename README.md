@@ -6,7 +6,7 @@ We are working a with coffee bean review dataset, and want to see if it is possi
 
 Link to Collab:https://colab.research.google.com/drive/1AnEGZwOj2uAHjCaF5899QVeYg7zLptox
 
-Link to data on keggel: https://www.kaggle.com/ankurchavda/coffee-beans-reviews-by-coffee-quality-institute
+Link to data on kaggle: https://www.kaggle.com/ankurchavda/coffee-beans-reviews-by-coffee-quality-institute
 
 The files in this repository:
 
