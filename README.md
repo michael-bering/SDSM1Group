@@ -9,6 +9,8 @@ Link to Collab:https://colab.research.google.com/drive/1AnEGZwOj2uAHjCaF5899QVeY
 Link to data on keggel: https://www.kaggle.com/ankurchavda/coffee-beans-reviews-by-coffee-quality-institute
 
 The files in this repository:
+
     Our data CSV file called: Coffe_modified.csv
     A ipynb called: SDS_2019_M1_Group_Assignment.ipynb
-    A stakeholder report(PDF):Stakeholder.pdf
+    A stakeholder report(PDF): Stakeholder.pdf
+    A PDF of our ipynb file: pdf_group_assignment.pdf 
