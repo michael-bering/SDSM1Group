@@ -9,5 +9,5 @@ Link to data on keggel: https://www.kaggle.com/ankurchavda/coffee-beans-reviews-
 The files in this repository:
 
     Our data CSV file called: Coffe_modified.csv
-    A ipynb called: 
+    A ipynb called: SDS_2019_M1_Group_Assignment.ipynb
     A stakeholder report(PDF):Stakeholder.pdf
