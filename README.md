@@ -1,6 +1,6 @@
 #SDS 2019 M1 Group Assignment
 
-Group members: Jonas Jepsen, Michael Bering and Tobias Malta 
+Group members: Jonas Jepsen, Michael Bering and Tobias Maltha 
 
 The purpose of this assignment is to calculate a person’s(Cupper) rating based on the person’s(cuppers) coffee rating from Coffee Quality Institute.
 
